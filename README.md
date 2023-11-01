@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -    Working-with-Python-on-Sales-Data          |  -  Focus on the use of pandas for Sales Analysis           |https://github.com/EstherAfari/Working-with-Python-on-Sales-Data#working-with-python-on-sales-data    |
+| 2 |  - Analysis-On-The-Sakila-Database            |  -  In-depth Analysis On The Sakila Database With The Use Of Power Bi           |  https://github.com/EstherAfari/Analysis-On-The-Sakila-Database     |
+| 3 |  -  Analysis-On-Titanic-Dataset           |  -   In-depth Analysis On The Titanic Dataset Using CRISP-DM          | https://github.com/EstherAfari/Analysis-On-Titanic-Dataset    |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
